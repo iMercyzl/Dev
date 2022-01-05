@@ -1,0 +1,43 @@
+
+body {
+    background: rgb(226, 218, 101);
+    font: normal 15pt Arial;
+}
+header {
+    color: rgb(25, 9, 250);
+    text-align: center;
+}
+section {
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(22, 22, 22);
+    height: 400px;
+
+    
+
+}
+#dados{
+    margin-left: 50px;
+}
+#botão{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 50px;
+}
+label{
+    width: 30%;
+    
+}
+input{
+    width: 70%;
+}
+footer {
+    color: rgb(25, 9, 250);
+    text-align: center;
+    font-style: italic;
+}

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>blablabla</title>
+    <style>
+        body {
+            background: rgb(101, 9, 143);
+            color: black;
+            font: normal 20pt arial;
+        }
+    </style>
+</head>
+<body>
+    <h1>tudo nosso, nada <stong>Nosso</stong> em JavaScript</h1>
+    <p>aqui vai alguma coisa</p>
+    <p>aqui é tudo nosso</p>
+    <div id='msg'>Clica em nós</div>
+    <script>
+        var p1 = window.document.getElementsByTagName('p')[1]
+        window.document.write(`está escrito assim ${p1.innerText}`)
+        p1.style.color = 'rgb(29, 9, 143)'
+        var d = window.document.querySelector('div#msg')
+        d.style.color = 'pink'
+        
+    </script>
+    
+</body>
+</html>

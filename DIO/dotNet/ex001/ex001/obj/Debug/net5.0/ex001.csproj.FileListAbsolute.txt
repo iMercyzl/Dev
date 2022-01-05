@@ -1,0 +1,16 @@
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.csproj.AssemblyReference.cache
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.AssemblyInfoInputs.cache
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.AssemblyInfo.cs
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.csproj.CoreCompileInputs.cache
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.exe
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.deps.json
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.runtimeconfig.json
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.runtimeconfig.dev.json
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.dll
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ref\ex001.dll
+E:\Dev\DIO\dotNet\ex001\ex001\bin\Debug\net5.0\ex001.pdb
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.dll
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ref\ex001.dll
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.pdb
+E:\Dev\DIO\dotNet\ex001\ex001\obj\Debug\net5.0\ex001.genruntimeconfig.cache

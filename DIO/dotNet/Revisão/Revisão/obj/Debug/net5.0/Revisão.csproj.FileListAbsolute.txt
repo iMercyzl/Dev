@@ -1,0 +1,16 @@
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.exe
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.deps.json
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.json
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.runtimeconfig.dev.json
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.dll
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\ref\Revisão.dll
+E:\Dev\DIO\dotNet\Revisão\Revisão\bin\Debug\net5.0\Revisão.pdb
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.csproj.AssemblyReference.cache
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfoInputs.cache
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.AssemblyInfo.cs
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.csproj.CoreCompileInputs.cache
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.dll
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\ref\Revisão.dll
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.pdb
+E:\Dev\DIO\dotNet\Revisão\Revisão\obj\Debug\net5.0\Revisão.genruntimeconfig.cache
