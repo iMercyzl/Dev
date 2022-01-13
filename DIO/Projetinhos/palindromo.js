@@ -6,7 +6,7 @@ function verificaPalindromo(string) {
 
 console.log(verificaPalindromo("ovo"))
 
-function varificaPalindromo2(string) {
+/*function varificaPalindromo2(string) {
     if (!string) return "string inexistente";
 
     for(let i = 0; i< string.length / 2; i++) {
@@ -18,4 +18,4 @@ function varificaPalindromo2(string) {
     return true;
 }
 
-console.log(verificaPalindromo2("abba"));
+console.log(verificaPalindromo2("abba"));*/
