@@ -4,7 +4,7 @@ Programa para Verificar se o número é entre 1 e 100, caso seja maior ou menor 
 
 
 
-Criador: Curso em Video
+Curso: Curso em Video
 
 
 
