@@ -4,7 +4,7 @@ Programa para mostrar verificar Idade e Gênero
 
 
 
-Criador: Curso em Video
+Curso: Curso em Video
 
 
 

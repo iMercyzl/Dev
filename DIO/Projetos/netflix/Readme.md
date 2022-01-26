@@ -2,7 +2,7 @@
 
 Interface do Netflix
 
-Criador: DIO
+Curso: DIO
 
 
 
