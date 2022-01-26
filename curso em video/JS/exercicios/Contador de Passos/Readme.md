@@ -4,7 +4,7 @@ Programa para contar passos.
 
 
 
-Curso: Curso em Video
+Criador: Curso em Video
 
 
 

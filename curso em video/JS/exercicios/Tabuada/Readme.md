@@ -4,7 +4,7 @@ Programa de Tabuada
 
 
 
-Curso: Curso em Video
+Criador: Curso em Video
 
 
 
