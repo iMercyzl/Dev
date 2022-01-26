@@ -18,3 +18,8 @@ function getFullName({fullName: {firstName: first, lastName: last}}) {
 userId(user)
 
 getFullName(user)
+
+console.log(`Nome: ${getFullName(user)}`)
+
+console.log(`Idade: ${userId(user)} anos`)
+
